@@ -1,11 +1,13 @@
 # Fun with SVGs - Day and Night
 
-**Example of Day**![Day](screenshots\day.png)
+**Example of Day**
+
+![Day](screenshots/day.png)
 
 **Example of Night**
 
-![Night](screenshots\night.png)
+![Night](screenshot/night.png)
 
 **Example of Switcheroo**
 
-![Switcheroo](screenshots\switcheroo.png)
+![Switcheroo](screenshots/switcheroo.png)
