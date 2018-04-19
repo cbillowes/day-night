@@ -6,7 +6,7 @@
 
 **Example of Night**
 
-![Night](screenshot/night.png)
+![Night](screenshots/night.png)
 
 **Example of Switcheroo**
 
